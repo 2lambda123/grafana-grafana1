@@ -57,6 +57,7 @@ export const backendSrvBaseQuery =
         ...(body && { data: body }),
         ...(successMessage && { showSuccessAlert: false }),
         ...(errorMessage && { showErrorAlert: false }),
+        ...(requestOptions.method === 'DELETE' && { headers: { 'content-type': 'application/json' } }),
       };
 
       const requestStartTs = performance.now();
@@ -104,6 +105,9 @@ export const alertingApi = createApi({
     'GrafanaSlo',
     'RuleGroup',
     'RuleNamespace',
+    'ContactPoint',
+    'ContactPointsStatus',
+    'Receiver',
   ],
   endpoints: () => ({}),
 });
