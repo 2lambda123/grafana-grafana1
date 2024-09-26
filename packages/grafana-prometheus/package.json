@@ -127,7 +127,7 @@
     "react-dom": "18.2.0",
     "react-select-event": "5.5.1",
     "react-test-renderer": "18.2.0",
-    "rollup": "2.79.1",
+    "rollup": "3.29.5",
     "rollup-plugin-dts": "^5.0.0",
     "rollup-plugin-esbuild": "5.0.0",
     "rollup-plugin-node-externals": "^5.0.0",
@@ -137,7 +137,7 @@
     "testing-library-selector": "0.3.1",
     "ts-node": "10.9.2",
     "typescript": "5.4.5",
-    "webpack": "5.94.0",
+    "webpack": "5.95.0",
     "webpack-cli": "5.1.4"
   },
   "peerDependencies": {
