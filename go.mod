@@ -145,7 +145,7 @@ require (
 	github.com/redis/go-redis/v9 v9.6.1 // @grafana/alerting-backend
 	github.com/robfig/cron/v3 v3.0.1 // @grafana/grafana-backend-group
 	github.com/russellhaering/goxmldsig v1.4.0 // @grafana/grafana-backend-group
-	github.com/scottlepp/go-duck v0.2.0 // @grafana/grafana-app-platform-squad
+	github.com/scottlepp/go-duck v0.3.1 // @grafana/grafana-app-platform-squad
 	github.com/spf13/cobra v1.8.1 // @grafana/grafana-app-platform-squad
 	github.com/spf13/pflag v1.0.5 // @grafana-app-platform-squad
 	github.com/spyzhov/ajson v0.9.3 // @grafana/grafana-app-platform-squad
