@@ -175,13 +175,13 @@ require (
 	gocloud.dev v0.40.0 // @grafana/grafana-app-platform-squad
 	golang.org/x/crypto v0.28.0 // @grafana/grafana-backend-group
 	golang.org/x/exp v0.0.0-20240808152545-0cdaa3abc0fa // @grafana/alerting-backend
-	golang.org/x/mod v0.20.0 // indirect; @grafana/grafana-backend-group
+	golang.org/x/mod v0.21.0 // indirect; @grafana/grafana-backend-group
 	golang.org/x/net v0.30.0 // @grafana/oss-big-tent @grafana/partner-datasources
 	golang.org/x/oauth2 v0.23.0 // @grafana/identity-access-team
 	golang.org/x/sync v0.8.0 // @grafana/alerting-backend
 	golang.org/x/text v0.19.0 // @grafana/grafana-backend-group
 	golang.org/x/time v0.6.0 // @grafana/grafana-backend-group
-	golang.org/x/tools v0.24.0 // @grafana/grafana-as-code
+	golang.org/x/tools v0.26.0 // @grafana/grafana-as-code
 	gonum.org/v1/gonum v0.14.0 // @grafana/observability-metrics
 	google.golang.org/api v0.192.0 // @grafana/grafana-backend-group
 	google.golang.org/grpc v1.67.1 // @grafana/plugins-platform-backend
