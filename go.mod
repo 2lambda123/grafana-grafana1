@@ -109,7 +109,7 @@ require (
 	github.com/hashicorp/go-plugin v1.6.1 // @grafana/plugins-platform-backend
 	github.com/hashicorp/go-version v1.7.0 // @grafana/grafana-backend-group
 	github.com/hashicorp/golang-lru/v2 v2.0.7 // @grafana/alerting-backend
-	github.com/hashicorp/hcl/v2 v2.17.0 // @grafana/alerting-backend
+	github.com/hashicorp/hcl/v2 v2.22.0 // @grafana/alerting-backend
 	github.com/huandu/xstrings v1.3.3 // @grafana/partner-datasources
 	github.com/influxdata/influxdb-client-go/v2 v2.13.0 // @grafana/observability-metrics
 	github.com/influxdata/line-protocol v0.0.0-20210922203350-b1ad95c89adf // @grafana/grafana-app-platform-squad
@@ -478,6 +478,7 @@ require (
 require (
 	cloud.google.com/go/longrunning v0.5.12 // indirect
 	connectrpc.com/connect v1.16.2 // indirect
+	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
 	github.com/blugelabs/ice/v2 v2.0.1 // indirect
 	github.com/dolthub/maphash v0.1.0 // indirect
 	github.com/dprotaso/go-yit v0.0.0-20220510233725-9ba8df137936 // indirect
