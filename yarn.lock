@@ -2848,7 +2848,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -2879,7 +2879,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -2920,7 +2920,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -2961,7 +2961,7 @@ __metadata:
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
     uuid: "npm:9.0.1"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3003,7 +3003,7 @@ __metadata:
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
     uuid: "npm:9.0.1"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3034,7 +3034,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3066,7 +3066,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3114,7 +3114,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3174,7 +3174,7 @@ __metadata:
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
     uuid: "npm:9.0.1"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3208,7 +3208,7 @@ __metadata:
     ts-node: "npm:10.9.2"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     "@grafana/runtime": "*"
   languageName: unknown
@@ -3589,7 +3589,7 @@ __metadata:
     swc-loader: "npm:0.2.6"
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   languageName: unknown
   linkType: soft
 
@@ -3708,7 +3708,7 @@ __metadata:
     tslib: "npm:2.6.3"
     typescript: "npm:5.4.5"
     uuid: "npm:9.0.1"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
     webpack-cli: "npm:5.1.4"
     whatwg-fetch: "npm:3.6.20"
   peerDependencies:
@@ -4027,7 +4027,7 @@ __metadata:
     typescript: "npm:5.4.5"
     uplot: "npm:1.6.31"
     uuid: "npm:9.0.1"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
   peerDependencies:
     react: ^18.0.0
     react-dom: ^18.0.0
@@ -18618,7 +18618,7 @@ __metadata:
     uplot: "npm:1.6.31"
     uuid: "npm:9.0.1"
     visjs-network: "npm:4.25.0"
-    webpack: "npm:5.96.0"
+    webpack: "npm:5.96.1"
     webpack-assets-manifest: "npm:^5.1.0"
     webpack-bundle-analyzer: "npm:4.10.2"
     webpack-cli: "npm:5.1.4"
@@ -32341,10 +32341,11 @@ __metadata:
   languageName: node
   linkType: hard
 
-"webpack@npm:5.96.0":
-  version: 5.96.0
-  resolution: "webpack@npm:5.96.0"
+"webpack@npm:5.96.1":
+  version: 5.96.1
+  resolution: "webpack@npm:5.96.1"
   dependencies:
+    "@types/eslint-scope": "npm:^3.7.7"
     "@types/estree": "npm:^1.0.6"
     "@webassemblyjs/ast": "npm:^1.12.1"
     "@webassemblyjs/wasm-edit": "npm:^1.12.1"
@@ -32372,7 +32373,7 @@ __metadata:
       optional: true
   bin:
     webpack: bin/webpack.js
-  checksum: 10/b9a34539450c51d069d37fed89569f8115516d731326153251a636b25811c3860f972b4d14a4bb1b887be2a41812d4c2a15f3f269bbf9420810e9d5402c3551f
+  checksum: 10/d3419ffd198252e1d0301bd0c072cee93172f3e47937c745aa8202691d2f5d529d4ba4a1965d1450ad89a1bcd3c1f70ae09e57232b0d01dd38d69c1060e964d5
   languageName: node
   linkType: hard
 
