@@ -1,7 +1,7 @@
 module github.com/grafana/grafana
 
 go 1.22.4
-toolchain go1.22.9
+toolchain go1.23.3
 
 // contains openapi encoder fixes. remove ASAP
 replace cuelang.org/go => github.com/grafana/cue v0.0.0-20230926092038-971951014e3f // @grafana/grafana-as-code
@@ -85,7 +85,7 @@ require (
 	github.com/grafana/dskit v0.0.0-20240311184239-73feada6c0d7 // @grafana/grafana-backend-group
 	github.com/grafana/gofpdf v0.0.0-20231002120153-857cc45be447 // @grafana/sharing-squad
 	github.com/grafana/gomemcache v0.0.0-20240805133030-fdaf6a95408e // @grafana/grafana-operator-experience-squad
-	github.com/grafana/grafana-aws-sdk v0.31.0 // @grafana/aws-datasources
+	github.com/grafana/grafana-aws-sdk v0.31.4 // @grafana/aws-datasources
 	github.com/grafana/grafana-azure-sdk-go/v2 v2.1.3 // @grafana/partner-datasources
 	github.com/grafana/grafana-cloud-migration-snapshot v1.5.0 // @grafana/grafana-operator-experience-squad
 	github.com/grafana/grafana-google-sdk-go v0.2.1 // @grafana/partner-datasources
@@ -484,7 +484,7 @@ require (
 	github.com/emirpasic/gods v1.18.1 // indirect
 	github.com/gammazero/deque v0.2.1 // indirect
 	github.com/grafana/grafana/pkg/semconv v0.0.0-20240808213237-f4d2e064f435 // indirect
-	github.com/grafana/sqlds/v4 v4.1.0 // indirect
+	github.com/grafana/sqlds/v4 v4.1.2 // indirect
 	github.com/hairyhenderson/go-which v0.2.0 // indirect
 	github.com/iancoleman/orderedmap v0.3.0 // indirect
 	github.com/maypok86/otter v1.2.3 // indirect
