@@ -191,9 +191,9 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // @grafana/alerting-backend
 	k8s.io/api v0.31.3 // @grafana/grafana-app-platform-squad
 	k8s.io/apimachinery v0.31.3 // @grafana/grafana-app-platform-squad
-	k8s.io/apiserver v0.31.2 // @grafana/grafana-app-platform-squad
+	k8s.io/apiserver v0.31.3 // @grafana/grafana-app-platform-squad
 	k8s.io/client-go v0.31.3 // @grafana/grafana-app-platform-squad
-	k8s.io/component-base v0.31.2 // @grafana/grafana-app-platform-squad
+	k8s.io/component-base v0.31.3 // @grafana/grafana-app-platform-squad
 	k8s.io/klog/v2 v2.130.1 // @grafana/grafana-app-platform-squad
 	k8s.io/kube-aggregator v0.31.2 // @grafana/grafana-app-platform-squad
 	k8s.io/kube-openapi v0.0.0-20240228011516-70dd3763d340 // @grafana/grafana-app-platform-squad
@@ -448,7 +448,7 @@ require (
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	k8s.io/kms v0.31.2 // indirect
+	k8s.io/kms v0.31.3 // indirect
 	modernc.org/gc/v3 v3.0.0-20240107210532-573471604cb6 // indirect
 	modernc.org/libc v1.55.3 // indirect
 	modernc.org/mathutil v1.6.0 // indirect
