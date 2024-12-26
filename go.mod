@@ -146,7 +146,7 @@ require (
 	github.com/redis/go-redis/v9 v9.7.0 // @grafana/alerting-backend
 	github.com/robfig/cron/v3 v3.0.1 // @grafana/grafana-backend-group
 	github.com/russellhaering/goxmldsig v1.4.0 // @grafana/grafana-backend-group
-	github.com/scottlepp/go-duck v0.3.1 // @grafana/grafana-app-platform-squad
+	github.com/scottlepp/go-duck v0.5.0 // @grafana/grafana-app-platform-squad
 	github.com/spf13/cobra v1.8.1 // @grafana/grafana-app-platform-squad
 	github.com/spf13/pflag v1.0.5 // @grafana-app-platform-squad
 	github.com/spyzhov/ajson v0.9.6 // @grafana/grafana-app-platform-squad
@@ -479,6 +479,7 @@ require (
 	cloud.google.com/go/longrunning v0.6.2 // indirect
 	connectrpc.com/connect v1.16.2 // indirect
 	github.com/apparentlymart/go-textseg/v15 v15.0.0 // indirect
+	github.com/araddon/dateparse v0.0.0-20210429162001-6b43995a97de // indirect
 	github.com/blugelabs/ice/v2 v2.0.1 // indirect
 	github.com/dolthub/maphash v0.1.0 // indirect
 	github.com/dprotaso/go-yit v0.0.0-20220510233725-9ba8df137936 // indirect
