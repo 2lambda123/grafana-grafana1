@@ -29,7 +29,7 @@ require (
 	github.com/Masterminds/semver/v3 v3.2.0 // @grafana/grafana-release-guild
 	github.com/Masterminds/sprig/v3 v3.2.3 // @grafana/grafana-backend-group
 	github.com/Masterminds/squirrel v1.5.4 // @grafana/identity-access-team
-	github.com/ProtonMail/go-crypto v1.1.2 // @grafana/plugins-platform-backend
+	github.com/ProtonMail/go-crypto v1.1.3 // @grafana/plugins-platform-backend
 	github.com/VividCortex/mysqlerr v1.0.0 // @grafana/grafana-backend-group
 	github.com/alicebob/miniredis/v2 v2.33.0 // @grafana/alerting-backend
 	github.com/andybalholm/brotli v1.1.0 // @grafana/partner-datasources
