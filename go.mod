@@ -163,7 +163,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.58.0 // @grafana/plugins-platform-backend
 	go.opentelemetry.io/contrib/instrumentation/net/http/httptrace/otelhttptrace v0.56.0 // @grafana/grafana-operator-experience-squad
 	go.opentelemetry.io/contrib/propagators/jaeger v1.31.0 // @grafana/grafana-backend-group
-	go.opentelemetry.io/contrib/samplers/jaegerremote v0.25.0 // @grafana/grafana-backend-group
+	go.opentelemetry.io/contrib/samplers/jaegerremote v0.27.0 // @grafana/grafana-backend-group
 	go.opentelemetry.io/otel v1.33.0 // @grafana/grafana-backend-group
 	go.opentelemetry.io/otel/exporters/jaeger v1.17.0 // @grafana/grafana-backend-group
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace v1.33.0 // @grafana/grafana-backend-group
